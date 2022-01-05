@@ -11,20 +11,23 @@ h1 {
 h2 {
   font-size: 40px;
 }
+h3 {
+  font-size: 30px;
+}
 .flex-container {
   display: flex;
+  margin-right: 10%;
+  margin-left: 10%;
 }
 .tomato-color {
   color: tomato;
 }
 .half-side {
   width: 50%;
-  padding-left: 10%;
-  padding-right: 10%;
 }
 .half-side img {
-  width: 80%;
-  padding-left: 50px;
+  width: 60%;
+  margin-left: 200px;
 }
 .top-header {
   padding-left: 10px;
@@ -40,9 +43,9 @@ h2 {
 .my-mission {
   text-align: center;
 }
-.mission-area{
-    margin-left:5%;
-    margin-right:5%;
+.mission-area {
+  margin-left: 5%;
+  margin-right: 5%;
 }
 .mission-item {
   width: 300px;
@@ -50,8 +53,29 @@ h2 {
   background-color: #ecbaba;
   border-radius: 10px;
   padding: 30px;
-  margin:;
+  margin: ;
 }
 .mission-item img {
   width: 60%;
+}
+
+.developer-image {
+  width: 40%;
+  margin-right: 30px;
+}
+.developer-image img {
+  width: 100%;
+}
+.developer-content {
+  width: 60%;
+}
+.community-content {
+  width: 60%;
+  margin-right: 30px;
+}
+.community-image {
+  width: 40%;
+}
+.community-image img {
+  width: 100%;
 }
