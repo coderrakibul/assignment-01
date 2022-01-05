@@ -1,0 +1,39 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0px;
+}
+section {
+  margin-bottom: 80px;
+}
+h1 {
+  font-size: 50px;
+}
+h2 {
+  font-size: 40px;
+}
+.flex-container {
+  display: flex;
+}
+.tomato-color {
+  color: tomato;
+}
+.half-side {
+  width: 50%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.half-side img {
+  width: 80%;
+  padding-left: 50px;
+}
+.top-header {
+  padding-left: 10px;
+  border-left: 5px solid #6a6ad4;
+}
+.link-btn {
+  text-decoration: none;
+  color: white;
+  background-color: #e95555;
+  padding: 10px 30px;
+  border-radius: 5px;
+}
