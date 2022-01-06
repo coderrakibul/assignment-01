@@ -29,10 +29,11 @@ h3 {
 .half-side img {
   width: 60%;
   margin-left: 200px;
+  margin-top: 50px;
 }
 .top-header {
   padding-left: 10px;
-  border-left: 5px solid #6a6ad4;
+  border-left: 5px solid blue;
 }
 .link-btn {
   text-decoration: none;
