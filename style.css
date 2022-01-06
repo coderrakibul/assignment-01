@@ -88,12 +88,15 @@ h3 {
   text-align: center;
 }
 .single-person {
-  width: 200px;
-  height: 200px;
+  width: 230px;
+  height: 230px;
   padding: 50px;
   background-color: rgb(247, 230, 230);
   border-radius: 100%;
 }
 .single-person img {
   width: 100%;
+}
+.single-person h3{
+  text-align:center;
 }
