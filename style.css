@@ -33,7 +33,7 @@ h3 {
 }
 .top-header {
   padding-left: 10px;
-  border-left: 5px solid blue;
+  border-left: 5px solid orange;
 }
 .link-btn {
   text-decoration: none;
@@ -48,7 +48,7 @@ h3 {
 .mission-item {
   width: 300px;
   margin: 10px;
-  border-radius: 10px;
+  border-radius: 15px;
   padding: 30px;
 }
 .mission-item img {
@@ -109,7 +109,7 @@ h3 {
 .footer-area {
   text-align: center;
   margin-top: 250px;
-  background-color: rgb(226, 174, 76);
+  background-color: black;
   color: white;
   padding: 10px;
 }
