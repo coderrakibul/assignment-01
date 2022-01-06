@@ -67,22 +67,28 @@ h3 {
   background-size: 20%;
 }
 .developer-image {
-  width: 40%;
+  width: 35%;
 }
 .developer-image img {
-  width: 80%;
+  width: 100%;
 }
 .developer-content {
-  width: 60%;
+  width: 45%;
+}
+.comm-bg-image {
+  background-image: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-size: 20%;
+  background-position: right;
 }
 .community-content {
-  width: 60%;
+  width: 45%;
 }
 .community-image {
-  width: 40%;
+  width: 35%;
 }
 .community-image img {
-  width: 80%;
+  width: 100%;
 }
 #team-title {
   text-align: center;
@@ -97,14 +103,13 @@ h3 {
 .single-person img {
   width: 100%;
 }
-.single-person h3{
-  text-align:center;
+.single-person h3 {
+  text-align: center;
 }
-.footer-area{
-  text-align:center;
-  margin-top:250px;
-  background-color:rgb(226, 174, 76);
-  color:white;
-  padding:10px;
+.footer-area {
+  text-align: center;
+  margin-top: 250px;
+  background-color: rgb(226, 174, 76);
+  color: white;
+  padding: 10px;
 }
-
