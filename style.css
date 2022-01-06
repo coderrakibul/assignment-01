@@ -100,3 +100,11 @@ h3 {
 .single-person h3{
   text-align:center;
 }
+.footer-area{
+  text-align:center;
+  margin-top:250px;
+  background-color:rgb(226, 174, 76);
+  color:white;
+  padding:10px;
+}
+
